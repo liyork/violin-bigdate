@@ -1,0 +1,18 @@
+{
+	"namespace": "com.wolf.test.hadoop.avro.generateclass",
+	"type": "record",
+	"name": "Members",
+	"fields": [{
+			"name": "userName",
+			"type": "string"
+		},
+		{
+			"name": "userPwd",
+			"type": "string"
+		},
+		{
+			"name": "realName",
+			"type": "string"
+		}
+	]
+}
